@@ -1,4 +1,4 @@
-# O meu primeiro reto(Alex
+# O meu primeiro reto(Alex)
 
 ![Fallou a imaxe](/logo.png)
 
