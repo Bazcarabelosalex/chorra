@@ -1,4 +1,4 @@
-# O meu primeiro repo
+# O meu primeiro reto(Alex
 
 ![Fallou a imaxe](/logo.png)
 
